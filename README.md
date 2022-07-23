@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Diego Sierra</h1>
 <h3 align="center">soy un Frontend apasionado</h3>
 
-- 💬 Preguntame **HTML, CSS, Bootstrap, JavaScript**
+- 💬 Puedes preguntame sobre **HTML, CSS, Bootstrap, JavaScript**
 
-- 📫 Contactame **jbodiegosierra@gmail.com**
+- 📫 Puedes contactame al siguiente correo **jbodiegosierra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
